@@ -1,0 +1,41 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+.red {
+  background-color: #f2bcbc;
+  color: #991919;
+  border: solid 1px #b92828;
+  border-radius: 8px;
+}
+
+.green {
+  background-color: #d1e0bf;
+  color: #51603f;
+  border: solid 1px #6b7e54;
+  border-radius: 8px;
+}
+
+.grey {
+  background-color: #f2f2f2;
+  color: #333;
+  border: solid 1px #666;
+  border-radius: 8px;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  color: #38448e;
+  border: solid 1px #1d38da;
+  border-radius: 8px;
+}
+
+td {
+  height: 10em;
+}
+
+th,
+td,
+table {
+  border: 1px solid #ccc;
+}
